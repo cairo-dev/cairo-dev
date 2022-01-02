@@ -10,7 +10,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Pedro Luis. I currently live in São Paulo, Brazil and I am a programming student.
+My name is Pedro Luis. I currently live in São Paulo, Brazil and I am a backend programming student.
 
 
 ## Detailed information
