@@ -1,16 +1,22 @@
-### Hi there 👋
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/pedro-luis-c-cordeiro-91b46558/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**cairo-dev/cairo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there
 
-Here are some ideas to get you started:
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public information
+
+My name is Pedro Luis. I currently live in São Paulo, Brazil and I am a programming student.
+
+
+## Detailed information
+
+* **Name**: Pedro Luis
+* **Age**: 20
+* **Living in**: São Paulo, Brazil
+* **Stack**: Python - Flask - SQL - Bootstrap
+* **University**: IT Management - Anhembi Morumbi
