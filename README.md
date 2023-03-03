@@ -12,7 +12,7 @@ My name is Pedro Luis. I currently live in São Paulo, Brazil and I am a backend
 * **Name**: Pedro Luis
 * **Age**: 21
 * **Living in**: São Paulo, Brazil
-* **Stack**: Python - Flask - SQL - Bootstrap
+* **Stack**: Python - Flask
 * **University**: IT Management - Anhembi Morumbi
 
 <div style="display: inline_block"><br>
